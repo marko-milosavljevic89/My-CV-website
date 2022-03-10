@@ -1,3 +1,6 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
 .container.contact__container {
     width: 58%;
     display: grid;
@@ -48,10 +51,17 @@ input, textarea {
     width: 100%;
     padding: 1.5rem;
     border-radius: 0.5rem;
+    font-size: medium;
     background: transparent;
     border: 2px solid var(--color-primary-variant);
     resize: none;
     color: var(--color-white);
+    
+    
+}
+
+input::placeholder, textarea::placeholder {
+    color: rgb(187, 187, 187);
 }
 
 /* ======== MEDIA QUERIES (MEDIUM DEVICES) ================= */

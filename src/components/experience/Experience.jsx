@@ -49,6 +49,46 @@ const Experience = () => {
           </article>
         </div>
         </div>
+        <div className="experience__other">
+        <h3>Other Skills</h3>
+        <div className="experience__content">
+          <article className="experience__detail">
+            <BsPatchCheckFill className="experience__detail-icon"/>
+            <div>
+              <h4>Photoshop</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+          </article>
+          <article className="experience__detail">
+            <BsPatchCheckFill className="experience__detail-icon"/>
+            <div>
+              <h4>Ilustrator</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+          </article>
+          <article className="experience__detail">
+            <BsPatchCheckFill className="experience__detail-icon"/>
+            <div>
+              <h4>Microsoft Office</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+          </article>
+          <article className="experience__detail">
+            <BsPatchCheckFill className="experience__detail-icon"/>
+            <div>
+              <h4>Nuke</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+          </article>
+          <article className="experience__detail">
+            <BsPatchCheckFill className="experience__detail-icon"/>
+            <div>
+              <h4>Premiere Pro</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+          </article>
+        </div>
+        </div>
       </div>
     </section>
   )
