@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR1 from '../../assets/activity1.jpg'
+import AVTR2 from '../../assets/activity2.jpg'
+import AVTR3 from '../../assets/activity3.jpg'
+import AVTR4 from '../../assets/activity4.jpg'
 // import Swiper core and required modules
 import { Pagination, Navigation } from 'swiper';
 
@@ -58,10 +58,12 @@ const Testimonials = () => {
               <div className="client__avatar">
                 <img src={avatar} alt="Avatar One" />
               </div>
+              <div>
               <h5>{name}</h5>
               <small className='client__review'>
               {review}
               </small>
+              </div>
             </SwiperSlide>
             )
           })
