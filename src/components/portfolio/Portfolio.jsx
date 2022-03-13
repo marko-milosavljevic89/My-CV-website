@@ -10,7 +10,7 @@ const data = [
     image: IMG1,
     title: 'Portfolio',
     github: 'https://github.com/marko-milosavljevic89/portfolio',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualization'
+    demo: ''
   },
   {
     id:2, 
@@ -24,7 +24,7 @@ const data = [
     image: IMG3,
     title: 'Aditiv Trade',
     github: 'https://github.com/marko-milosavljevic89/AditivTrade',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    demo: ''
   }
 ]
 
