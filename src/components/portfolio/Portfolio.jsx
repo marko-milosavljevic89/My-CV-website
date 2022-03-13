@@ -17,7 +17,7 @@ const data = [
     image: IMG2,
     title: 'Discogs Browser App',
     github: 'https://github.com/marko-milosavljevic89/discogs',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-and-infographics-in-Figma'
+    demo: 'https://discogs-browser.herokuapp.com/'
   },
   {
     id:3, 
