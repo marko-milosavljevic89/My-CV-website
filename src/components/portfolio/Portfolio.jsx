@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 
 const data = [
   {
@@ -26,6 +27,14 @@ const data = [
     github: 'https://github.com/marko-milosavljevic89/AditivTrade',
     
     
+  },
+
+  {
+    id:4,
+    image: IMG4,
+    title: 'Movie Blog',
+    github: 'https://github.com/marko-milosavljevic89/Marko-s-Movie-Blog',
+    demo: 'https://markov-blog.vercel.app/'
   }
 ]
 
