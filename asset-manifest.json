@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-CV-website/static/css/main.692be12f.css",
+    "main.js": "/My-CV-website/static/js/main.37bca105.js",
+    "static/media/portfolio1.png": "/My-CV-website/static/media/portfolio1.3b936860f7f0b1499bbc.png",
+    "static/media/portfolio2.png": "/My-CV-website/static/media/portfolio2.42fbf00520d819320bb7.png",
+    "static/media/portfolio4.png": "/My-CV-website/static/media/portfolio4.f90f1b1fa5b1de7b4e87.png",
+    "static/media/activity3.jpg": "/My-CV-website/static/media/activity3.e0ad7baae8132ad33cd0.jpg",
+    "static/media/activity2.jpg": "/My-CV-website/static/media/activity2.b1f13d81c36c0ed0b5d6.jpg",
+    "static/media/markoslika2.png": "/My-CV-website/static/media/markoslika2.e85e0217bfa07b90b3f4.png",
+    "static/media/portfolio3.png": "/My-CV-website/static/media/portfolio3.3132fc6afd803260c8c2.png",
+    "static/media/CV.pdf": "/My-CV-website/static/media/CV.29ae1f3b8d36442fa6f8.pdf",
+    "static/media/activity1.jpg": "/My-CV-website/static/media/activity1.a58368c573126b1cdaa1.jpg",
+    "static/media/bg-texture.png": "/My-CV-website/static/media/bg-texture.3e9170690495094b2f13.png",
+    "static/media/activity4.jpg": "/My-CV-website/static/media/activity4.f366c1bfb751090a107d.jpg",
+    "static/media/me-about.png": "/My-CV-website/static/media/me-about.75b55705601abb869c2b.png",
+    "index.html": "/My-CV-website/index.html",
+    "main.692be12f.css.map": "/My-CV-website/static/css/main.692be12f.css.map",
+    "main.37bca105.js.map": "/My-CV-website/static/js/main.37bca105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692be12f.css",
+    "static/js/main.37bca105.js"
+  ]
+}
