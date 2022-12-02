@@ -19,7 +19,7 @@ const data = [
     image: IMG2,
     title: 'Discogs Browser App',
     github: 'https://github.com/marko-milosavljevic89/discogs',
-    demo: 'https://discogs-browser.herokuapp.com/'
+    demo: 'https://marko-milosavljevic89.github.io/Discogs-browser/'
   },
   {
     id:3, 
