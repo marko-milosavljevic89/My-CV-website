@@ -11,6 +11,7 @@ const data = [
     image: IMG1,
     title: 'Portfolio',
     github: 'https://github.com/marko-milosavljevic89/portfolio',
+    demo: 'https://marko-milosavljevic89.github.io/My-CV-website/'
     
   },
   {
